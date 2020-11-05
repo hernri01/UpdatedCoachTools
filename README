@@ -1,3 +1,9 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Once you have cloned this project, install express with the following command. 
+
+npm install express
+
+
 DATABASE ACCESS INFO
 
 https://account.mongodb.com/account/login?signedOut=true
